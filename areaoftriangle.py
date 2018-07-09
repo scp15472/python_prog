@@ -1,6 +1,7 @@
 import math
-def areaoftriagle(a,b):
-	area = 1/2*(a*b)
-	return(area)
 
-print areaoftriagle(5,10)
+def areaofTriangle(a,b):
+	area=0.5*(a*b)
+	return area
+
+print areaofTriangle(10,20)
